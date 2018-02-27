@@ -1,6 +1,6 @@
-# User Interface Engineering
+# Gesture Recognition Project
 
-*Project work for the course User Interface Engineering by Prof. Ottmar Hilliges.*
+*Course work for User Interface Engineering by Prof. Ottmar Hilliges.*
 
 We were provided with a modified version of the [ChaLearn][1] dataset for gesture recognition. The training data included RGB images, depth and segmentation information, and skeleton data:
 
