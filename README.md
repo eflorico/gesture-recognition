@@ -4,7 +4,7 @@
 
 We were provided with a modified version of the [ChaLearn][1] dataset for gesture recognition. The training data included RGB images, depth and segmentation information, and skeleton data:
 
-[Sample from training data](data.png)
+![Sample from training data](data.png "Sample from training data")
 
  In assignment 2, we trained a convolutional neural network to recognize gestures from individual frames. In the final project, we trained a neural network on the full movie clips. We evaluated multiple architectures to incorporate the temporal information: either combining features learned by a CNN with an RNN or maxpooling the CNN features. 
 
